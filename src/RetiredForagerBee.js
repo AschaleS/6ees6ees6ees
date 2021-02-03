@@ -1,6 +1,6 @@
 class RetiredForagerBee extends ForagerBee {
   constructor(){
-    super(ForagerBee)
+    super()
     this.age = 40;
     this.job = 'gamble';
     this.canFly = false;
